@@ -1,0 +1,59 @@
+commit dc8d2924b765cbd6c45f5f4556d5555da5bbaeda
+Author: Moloko Cordei Mokubedi <mkbmol006@myuct.az.za>
+Date:   Fri May 6 18:58:13 2022 +0200
+
+    Deleted python file versions of the notebook
+
+commit 812a51dc7d818a400f41278beec73c3e3be7e08f
+Author: Moloko Cordei Mokubedi <mkbmol006@myuct.az.za>
+Date:   Fri May 6 18:54:02 2022 +0200
+
+    Deleted Map4.tif, too large to push to github
+
+commit 4b4bc83c81fc6bfabedcc5ae3e34ab52bf8ea2df
+Author: Moloko Cordei Mokubedi <mkbmol006@myuct.az.za>
+Date:   Fri May 6 18:48:41 2022 +0200
+
+    Image to run on will now be downloaded from s3 and loaded onto program. This means that it will not be converted to RGB because the sci-kit module maintains the RGB format when it downloads it
+
+commit 7babc9b77597ef2d967ce30dd95cbd6572a2217c
+Author: Moloko Cordei Mokubedi <mkbmol006@myuct.az.za>
+Date:   Thu May 5 14:29:06 2022 +0200
+
+    Changed the input image to the one required to test the detector on. Also changed the HSV spectral range to a smaller window. A HTML file of the notebook was also made.
+
+commit 783b56ff542f86f8092d6d95ebd34d4ec13dea6c
+Author: Moloko Cordei Mokubedi <mkbmol006@myuct.az.za>
+Date:   Mon May 2 15:53:47 2022 +0200
+
+    Colour Detection of orange, red and brown aerial image elements done.
+
+commit 3a50841951bd6bc077870be24f26c77ccd254f0a
+Author: Moloko Cordei Mokubedi <mkbmol006@myuct.az.za>
+Date:   Mon May 2 13:02:18 2022 +0200
+
+    Added readme file
+
+commit 22d1ce283186240e64c245bfd77daaa35a292c22
+Author: Moloko Cordei Mokubedi <mkbmol006@myuct.az.za>
+Date:   Mon May 2 12:56:42 2022 +0200
+
+    Update README.md
+
+commit a89fc090f89cad09bc5248f979142be11eb0fb5e
+Author: Moloko Cordei Mokubedi <mkbmol006@myuct.az.za>
+Date:   Mon May 2 12:13:13 2022 +0200
+
+    Image display via matplotlib
+
+commit d0d249516e9f68f542a8626d8fb1c5528088034d
+Author: Moloko Cordei Mokubedi <mkbmol006@myuct.az.za>
+Date:   Mon May 2 11:51:03 2022 +0200
+
+    Jupyter Notebook with image display funcion running
+
+commit 8d4edbf5a2febe906b7117da49446b1f5ca52729
+Author: Moloko Cordei Mokubedi <mkbmol006@myuct.az.za>
+Date:   Mon May 2 10:43:00 2022 +0200
+
+    Initializing APG4011F Object Detection Assignment Git repo

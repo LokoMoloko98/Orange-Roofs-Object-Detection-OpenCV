@@ -1,28 +1,11 @@
-# Foobar
+# OpenCV red and orange roof detector
 
-Foobar is a Python library for dealing with word pluralization.
+The aim of this Jupyter notebook is to demonstrate a ruleset that detects buildings with red, brown and orange coloured roofs in a provided aerial image.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
+## Running the detector programme
+ 
 ```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+python3 
 ```
 
 ## Contributing
