@@ -5,7 +5,13 @@ The aim of this Jupyter notebook is to demonstrate a ruleset that detects buildi
 ## Running the detector programme
  
 ```bash
-jupyter notenooks  
+jupyter notebook Roofs_Predictions.ipynb
 ```
+or
+
+```bash
+jupyter notebook Road_Predictions.ipynb
+```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
